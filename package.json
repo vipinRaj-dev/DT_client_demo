@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vipinRaj-dev.github.io/DT_client_demo",
+  "homepage": "https://vipinraj-dev.github.io/DT_client_demo",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
