@@ -49,8 +49,8 @@ function App() {
       <DashboardProvider>
         <Router>
           <Routes>
-            <Route path="/login" element={<Login />} />
-            <Route path="/" element={<Login />} />
+            {/* <Route path="/login" element={<Login />} /> */}
+            <Route path="/DT_client_demo" element={<Login />} />
 
             {/* <Route element={<ProtectedRoute />}> */}
             {/* didn't added the protectedRoutes logic */}
