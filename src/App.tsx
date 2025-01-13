@@ -78,7 +78,7 @@ function App() {
 
             {/* </Route> */}
             {/* Database Discovery Route */}
-            <Route path="/databaseDiscovery" element={<DatabaseDiscovery />}>
+            <Route path="/DT_client_demo/databaseDiscovery" element={<DatabaseDiscovery />}>
               <Route index element={<DatabaseDiscoveryDashboard />} />
               <Route path="sqlDashboard/:time_interval" element={<SqlDashBoard />} />
               <Route path="postgreDashboard/:time_interval" element={<PostgreDashboard />} />
