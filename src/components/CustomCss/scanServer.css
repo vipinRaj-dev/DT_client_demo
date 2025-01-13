@@ -1,0 +1,16 @@
+.scanIPText {
+  margin-right: 584px !important;
+  font-size: 30px !important;
+}
+
+/* .EnclosementScan{
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  width: 72vw;
+  height: 27vh;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 2vh;
+} */

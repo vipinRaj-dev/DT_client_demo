@@ -1,0 +1,4285 @@
+[
+    {
+      "timestamp": "2024-07-10T03:35:30",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:30.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:30.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:30",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:30.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:30.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:30",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:30.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:30.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:25",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:25",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:25",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:25.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:25.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:35:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:35:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1629]:",
+      "message": "Information: Dispose(), called on EventLogger. Event processing is terminating...",
+      "update_status": "error",
+      "level":"error"
+    },
+    {
+      "timestamp": "2024-07-10T03:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:28:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:28:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:28:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:28:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:28:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:28:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T03:28:20.910565814Z level=warn msg=Unauthorized error=\"user token not found\" remote_addr=10.6.0.9 traceID=",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T03:28:20.910565814Z",
+      "level": "warn",
+      "msg": "Unauthorized",
+      "error": "\"user",
+      "remote_addr": "10.6.0.9",
+      "traceID": "",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1629]:",
+      "message": "Information: Event Logger has terminated",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "error",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:28:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:28:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:28:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T02:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T02:59:20.910642418Z",
+      "level": "error",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "grafana[2656]:",
+      "message": "logger=context userId=0 orgId=0 uname= t=2024-07-10T01:59:20.910642418Z level=info msg=\"Request Completed\" method=GET path=/api/live/ws status=401 remote_addr=10.6.0.9 time_ms=1 duration=1.061159ms size=40 referer= handler=/api/live/ws status_source=server",
+      "logger": "context",
+      "userId": "0",
+      "orgId": "0",
+      "uname": "",
+      "t": "2024-07-10T01:59:20.910642418Z",
+      "level": "info",
+      "msg": "\"Request",
+      "method": "GET",
+      "path": "/api/live/ws",
+      "status": "401",
+      "remote_addr": "10.6.0.9",
+      "time_ms": "1",
+      "duration": "1.061159ms",
+      "size": "40",
+      "referer": "",
+      "handler": "/api/live/ws",
+      "status_source": "server",
+      "sysMsg": "Request Completed",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 49.655412] hv_balloon: Max. dynamic memory size: 16384 MB",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "rsyslogd:",
+      "message": "[origin software=\"rsyslogd\" swVersion=\"8.2001.0\" x-pid=\"840\" x-info=\"https://www.rsyslog.com\"] rsyslogd was HUPed",
+      "software": "\"rsyslogd\"",
+      "swVersion": "\"8.2001.0\"",
+      "x-pid": "\"840\"",
+      "x-info": "\"https://www.rsyslog.com\"]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "error"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 17.597787] loop5: detected capacity change from 0 to 8",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "tmp-syscheck\\x2dmountpoint\\x2d1281151779.mount: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "tmp-syscheck\\x2dmountpoint\\x2d1281151779.mount: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T01:59:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "snapd[876]:",
+      "message": "backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Snap Daemon.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Snap Daemon.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Snap Daemon.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.10' (uid=0 pid=876 comm=\"/usr/lib/snapd/snapd \" label=\"unconfined\")",
+      "name": "'org.freedesktop.timedate1'",
+      "unit": "'dbus-org.freedesktop.timedate1.service'",
+      "(uid": "0",
+      "pid": "876",
+      "comm": "\"/usr/lib/snapd/snapd",
+      "label": "\"unconfined\")",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Time & Date Service...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Time & Date Service...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Time & Date Service...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Time & Date Service...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Main process exited, code=exited, status=1/FAILURE",
+      "code": "exited,",
+      "status": "1/FAILURE",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "logrotate.service: Failed with result 'exit-code'.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Failed to start Rotate log files.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Successfully activated service 'org.freedesktop.timedate1'",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Successfully activated service 'org.freedesktop.timedate1'",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Successfully activated service 'org.freedesktop.timedate1'",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Successfully activated service 'org.freedesktop.timedate1'",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dbus-daemon[770]:",
+      "message": "[system] Successfully activated service 'org.freedesktop.timedate1'",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Time & Date Service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Time & Date Service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Time & Date Service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Started Time & Date Service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Wait until snapd is fully seeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Starting Apply the settings specified in cloud-config...",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Condition check resulted in Auto import assertions from block devices being skipped.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "snap.lxd.activate.service: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "snap.lxd.activate.service: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T02:30:17",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "Finished Service for snap application lxd.activate.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.258063327Z\" level=info msg=\"Starting up\"",
+      "time": "\"2024-07-09T03:35:01.258063327Z\"",
+      "level": "info",
+      "msg": "\"Starting",
+      "sysMsg": "Starting up",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.258063327Z\" level=info msg=\"Starting up\"",
+      "time": "\"2024-07-09T03:35:01.258063327Z\"",
+      "level": "info",
+      "msg": "\"Starting",
+      "sysMsg": "Starting up",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.258063327Z\" level=info msg=\"Starting up\"",
+      "time": "\"2024-07-09T03:35:01.258063327Z\"",
+      "level": "info",
+      "msg": "\"Starting",
+      "sysMsg": "Starting up",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.258063327Z\" level=info msg=\"Starting up\"",
+      "time": "\"2024-07-09T03:35:01.258063327Z\"",
+      "level": "info",
+      "msg": "\"Starting",
+      "sysMsg": "Starting up",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T03:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T03:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T03:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T03:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T03:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-09T23:35:01.269317408Z\" level=info msg=\"detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf\"",
+      "time": "\"2024-07-09T23:35:01.269317408Z\"",
+      "level": "info",
+      "msg": "\"detected",
+      "sysMsg": "detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "kernel:",
+      "message": "[ 18.013616] audit: type=1400 audit(1720583280.306:41): apparmor=\"STATUS\" operation=\"profile_load\" profile=\"unconfined\" name=\"docker-default\" pid=2255 comm=\"apparmor_parser\"",
+      "type": "1400",
+      "apparmor": "\"STATUS\"",
+      "operation": "\"profile_load\"",
+      "profile": "\"unconfined\"",
+      "name": "\"docker-default\"",
+      "pid": "2255",
+      "comm": "\"apparmor_parser\"",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 139.84.137.53",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 139.84.137.53",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 139.84.137.53",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 139.84.137.53",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 172.105.60.167",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 172.105.60.167",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 172.105.60.167",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 172.105.60.167",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 13.126.27.131",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 13.126.27.131",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 13.126.27.131",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 13.126.27.131",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 91.189.91.157",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 91.189.91.157",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 91.189.91.157",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "ntpd[877]:",
+      "message": "Soliciting pool server 91.189.91.157",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T23:35:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T23:35:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T23:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T23:35:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T07:40:01.865853Z INFO ExtHandler ExtHandler Logs from the walinuxagent-network-setup.service since system boot:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "-- Logs begin at Fri 2023-03-10 09:59:47 UTC, end at Wed 2024-07-10 03:48:00 UTC. --",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T07:40:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Setting up firewall for the WALinux Agent with args: {'dst_ip': '168.63.129.16', 'uid': '0', 'wait': '-w'}",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 python3[254]: Successfully set the firewall rules",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Jul 10 03:47:47 CIS-Demo-Ubuntu-VM3 systemd[1]: Finished Setup network rules for WALinuxAgent.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-09T09:33:01.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-09T09:33:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.867125Z INFO ExtHandler ExtHandler Persistent firewall rules setup successfully",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:06:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:06:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.877398Z INFO ExtHandler ExtHandler Not setting the firewall rule to allow DNS TCP request to wireserver for a non root user since it already exists",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:14:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:14:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.882265Z INFO ExtHandler ExtHandler Checking if log collection is allowed at this time [True]. All three conditions must be met: configuration enabled [True], cgroups enabled [True], python supported: [True]",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.884893Z INFO ExtHandler ExtHandler Starting env monitor service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885312Z INFO MonitorHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:22:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:22:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.885439Z INFO MonitorHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886027Z INFO MonitorHandler ExtHandler Monitor.NetworkConfigurationChanges is disabled.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.886476Z INFO ExtHandler ExtHandler Start SendTelemetryHandler service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.887223Z INFO MonitorHandler ExtHandler Routing table from /proc/net/route:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Iface#011Destination#011Gateway #011Flags#011RefCnt#011Use#011Metric#011Mask#011#011MTU#011Window#011IRTT",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "Iface#011Destination#011Gateway #011Flags#011RefCnt#011Use#011Metric#011Mask#011#011MTU#011Window#011IRTT",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "eth0#01100000000#0110100020A#0110003#0110#0110#011100#01100000000#0110#0110#0110",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "eth0#0110000020A#01100000000#0110001#0110#0110#0110#01100FFFFFF#0110#0110#0110",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "eth1#0110000020A#01100000000#0110001#0110#0110#0110#01100FFFFFF#0110#0110#0110",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "eth0#01110813FA8#0110100020A#0110007#0110#0110#011100#011FFFFFFFF#0110#0110#0110",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "eth0#011FEA9FEA9#0110100020A#0110007#0110#0110#011100#011FFFFFFFF#0110#0110#0110",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "var-lib-docker-overlay2-metacopy\\x2dcheck1090239196-merged.mount: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "systemd[1]:",
+      "message": "var-lib-docker-overlay2-metacopy\\x2dcheck1090239196-merged.mount: Succeeded.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:34:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:34:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.890091Z INFO EnvHandler ExtHandler WireServer endpoint 168.63.129.16 read from file",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.891906Z INFO SendTelemetryHandler ExtHandler Successfully started the SendTelemetryHandler thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.892598Z INFO ExtHandler ExtHandler Start Extension Telemetry service.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.894689Z INFO ExtHandler ExtHandler Goal State Period: 6 sec. This indicates how often the agent checks for new goal states and reports status.",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:31:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:31:20.899843Z INFO EnvHandler ExtHandler Configure routes",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.899939Z INFO EnvHandler ExtHandler Gateway:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.899939Z INFO EnvHandler ExtHandler Gateway:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.899939Z INFO EnvHandler ExtHandler Gateway:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.899939Z INFO EnvHandler ExtHandler Gateway:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.899939Z INFO EnvHandler ExtHandler Gateway:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.896739Z INFO TelemetryEventsCollector ExtHandler Successfully started the TelemetryEventsCollector thread",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.897725Z INFO EnvHandler ExtHandler Wire server endpoint:168.63.129.16",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:32:20",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:32:20.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.893185Z INFO TelemetryEventsCollector ExtHandler Extension Telemetry pipeline enabled: True",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.899997Z INFO EnvHandler ExtHandler Routes:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.899997Z INFO EnvHandler ExtHandler Routes:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.899997Z INFO EnvHandler ExtHandler Routes:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.899997Z INFO EnvHandler ExtHandler Routes:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.899997Z INFO EnvHandler ExtHandler Routes:None",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "dockerd[1976]:",
+      "message": "time=\"2024-07-10T03:35:01.928328765Z\" level=info msg=\"[graphdriver] using prior storage driver: overlay2\"",
+      "time": "\"2024-07-10T03:35:01.928328765Z\"",
+      "level": "info",
+      "msg": "\"[graphdriver]",
+      "sysMsg": "[graphdriver] using prior storage driver: overlay2",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.933253Z INFO ExtHandler ExtHandler Downloading agent manifest",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    },
+    {
+      "timestamp": "2024-07-10T03:35:01",
+      "hostname": "CIS-Demo-Ubuntu-VM3",
+      "process": "python3[1393]:",
+      "message": "2024-07-10T03:35:01.940882Z INFO MonitorHandler ExtHandler Network interfaces:",
+      "update_status": "normal"
+    }
+  ]

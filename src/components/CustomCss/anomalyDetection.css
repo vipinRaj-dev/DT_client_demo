@@ -1,0 +1,150 @@
+.AnomalyBody {
+    display: flex;
+    height: 89vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+.AnomalyTitle {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 9vh;
+    margin-top: 3vh;
+    align-items: flex-start;
+}
+
+.MainHeading {
+    display: flex;
+    font-size: 1.3rem;
+    color: #006e74;
+    font-weight: bold;
+    width: 61vw;
+    margin-left: 26vh;
+}
+
+.SubHeading {
+    display: flex;
+    width: 30vw;
+    font-size: 1rem;
+    color: gray;
+    margin-left: 26vh;
+}
+
+.AnomalyCountCards {
+    display: flex;
+    width: 100vw;
+    height: 25vh;
+    align-items: center;
+    gap: 15vh;
+    justify-content: flex-start;
+    margin-left: 26vw;
+}
+
+.HighCountCard,
+.MediumCountCard,
+.LowCountCard {
+    display: flex;
+    height: 17vh;
+    width: 9vw;
+    border-radius: 3vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.HighCountCard {
+    background-color: #FF1818;
+    /* margin-left: 26vh; */
+}
+
+.MediumCountCard {
+    background-color: #FFC300;
+}
+
+.LowCountCard {
+    background-color: #5463FF;
+}
+
+.PriorityImage {
+    display: flex;
+    position: relative;
+    top: -6vh;
+    left: 10vh;
+}
+
+.MediumCountCard .PriorityImage {
+    display: flex;
+    position: relative;
+    top: -6vh;
+    left: 7vh;
+}
+
+.MediumCountCard h4 {
+    display: flex;
+    position: relative;
+    top: -6vh;
+    /* left: -7vh; */
+    color: white;
+}
+
+.MediumCountCard p {
+    display: flex;
+    position: relative;
+    top: 1vh;
+    /* left: -25vh; */
+    color: white;
+    font-size: 3rem;
+}
+
+.HighCountCard h4,
+.LowCountCard h4 {
+    display: flex;
+    position: relative;
+    top: -6vh;
+    /* left: -9vh; */
+    color: white;
+}
+
+.HighCountCard p,
+.LowCountCard p {
+    display: flex;
+    position: relative;
+    top: 1vh;
+    /* left: -25vh; */
+    color: white;
+    font-size: 3rem;
+}
+
+.SearchAnomalyFunction {
+    display: flex;
+    width: 100vw;
+    height: 8vh;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.SearchBar {
+    display: flex;
+    width: 40vw;
+    height: 5vh;
+    border: 1px solid gray;
+    margin-left: 26vh;
+    border-radius: 5px;
+}
+
+.AnomalyTableBody {
+    display: flex;
+    width: 100vw;
+    height: 44vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titles{
+    color: #006E74;
+    font-size: 18px;
+}

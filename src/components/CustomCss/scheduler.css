@@ -1,0 +1,70 @@
+.sslAddButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    height: 7vh;
+    margin-right: 5vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.sslButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    height: 7vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.schedulerTopHeading {
+    display: flex;
+    flex-direction: row;
+    width: 97vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3vh;
+}
+
+
+.schedulerFull{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 95%;
+    margin-left: 3vh;
+    cursor: default;
+}
+
+.schedulerText{
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: default;
+}
+
+.SubHeadingText{
+    display: block;
+    font-size: 0.9rem;
+    font-weight: lighter;
+    color: gray;
+    cursor: default;
+}
+
+
+thead th {
+    background: transparent !important; 
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0; 
+    z-index: 0 !important;
+    border-bottom: 2px solid #e5e7eb; 
+}

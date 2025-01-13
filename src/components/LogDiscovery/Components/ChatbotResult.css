@@ -1,0 +1,113 @@
+/* Container for the chatbot */
+.chatbot-result-container {
+  position: absolute;
+  bottom: 0px;
+  width: inherit; /* Dynamic width */
+  height: inherit; /* Height is controlled by the resizable component */
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Prevents content overflow */
+}
+
+/* Header styling */
+.chatbot-header {
+  background: #006e74;
+  color: white;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0; /* Prevent header from shrinking when resizing */
+}
+
+/* Message area styling */
+.chatbot-message {
+  padding: 10px;
+  flex-grow: 1; /* Allow the message area to expand and fill available space */
+  overflow-y: scroll; /* Add scroll when content overflows */
+  gap: 1vh;
+  background: #f9f9f9; /* Subtle background for readability */
+}
+
+/* Buttons inside the header */
+.chatbot-header button {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Minimized state */
+.chatbot-minimized {
+  position: fixed;
+  bottom: 10px;
+  right: 25px;
+  width: 6vw;
+  height: 7vh;
+  background-color: #006e74;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Icon inside minimized state */
+.chatbox-icon {
+  font-size: 14px;
+  text-align: center;
+}
+
+/* Ensures resizable handles are visible */
+.resizable-container {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 10;
+}
+
+/* Hover effect for resize handles */
+.react-resizable-handle {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  bottom: -5px; /* Adjust based on size */
+  right: -5px;
+  z-index: 10;
+}
+
+.react-resizable-handle.n {
+  top: -10px; /* Adjust positioning */
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: ns-resize;
+}
+
+.react-resizable-handle.nw {
+  top: -10px; /* Adjust positioning */
+  left: -10px; /* Adjust positioning */
+  cursor: nw-resize;
+}
+
+.react-resizable-handle.w {
+  left: -10px; /* Adjust positioning */
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: ew-resize;
+}
+
+/* Add custom icons or styles if needed */
+.react-resizable-handle::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  /* You can set background image or an icon here */
+}

@@ -1,0 +1,58 @@
+.navBar {
+  height: 10vh;
+  width: 100vw;
+  z-index: 10 !important;
+}
+
+.navbarTitle{
+    color: #006E74;
+    font-size: 20px;
+
+}
+
+
+.logoutOption {
+  display: flex;
+  position: absolute;
+  font-size: 14px;
+  background: #D7E0E3;
+  padding: 1vh;
+  gap: 1vh;
+  flex-direction: column;
+  margin: 8vh 2vh 0vh 0vh;
+  right: 0px;
+}
+
+.individualOption{
+  display: flex;
+  margin: 0;
+  padding: 5px;
+}
+
+.individualOption:hover {
+  background-color: #7A7480; /* Darker background color */
+  color: #fff; /* Optional: Change text color on hover */
+}
+
+.arrowStyle {
+  height: 15px;
+  width: 18px;
+  margin: 16px;
+  margin-right: -20px;
+  cursor: pointer;
+}
+
+
+.navBar h1 {
+  color: #231F20; 
+  cursor: pointer;
+}
+
+.navBar h1:hover {
+  color: teal;
+}
+
+.navBar h1.active-nav-item {
+  color: teal; 
+  /* font-weight: bold; */
+}

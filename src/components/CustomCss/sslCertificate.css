@@ -1,0 +1,191 @@
+.SslBody {
+    overflow: hidden;
+}
+
+.sslAddButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    height: 7vh;
+    margin-right: 5vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.sslButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    height: 7vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.sslTopHeading {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3vh;
+}
+
+.sslTableContainer {
+    overflow-x: auto;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.sslTable {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.addedIPContainer {
+    margin-bottom: 3px;
+    width: 99%;
+    padding: 10px 10px 0px 10px;
+}
+
+.ipListDiv {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    height: 6vh;
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.ipDetailsDiv {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+
+.expired {
+    color: #e71515;
+}
+
+.will-expire {
+    color: #f46b03;
+}
+
+.valid{
+    color: #0de123;
+}
+
+.noIPMessage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    width: 100vw;
+    justify-content: center;
+}
+
+.noIPInside{
+    display: flex;
+    height: 30vh;
+    width: 96vw;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2vh;
+    font-size: larger;
+}
+
+
+/* CertificateTable.css */
+
+/* Truncate text with ellipsis */
+.text-truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 150px; /* Adjust this width as needed */
+    position: relative;
+}
+
+/* Tooltip styling */
+.text-truncate:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 100%; /* Position above the text */
+    left: 0;
+    transform: translateY(-8px); /* Adjust position for better alignment */
+    background-color: rgba(0, 0, 0, 0.75); /* Dark background */
+    color: #fff; /* White text */
+    padding: 4px 8px; /* Padding around the text */
+    border-radius: 4px; /* Rounded corners */
+    font-size: 12px; /* Smaller font size */
+    white-space: normal; /* Allow text to wrap */
+    z-index: 1000; /* Ensure tooltip is above other elements */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s; /* Fade-in effect */
+}
+
+/* Show the tooltip on hover */
+.text-truncate:hover::after {
+    opacity: 1;
+    visibility: visible;
+    /* Optionally add a box shadow for a better effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+.table-container {
+    overflow-x: auto; /* Enable horizontal scroll */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+}
+
+table {
+    width: 100%; /* Full width */
+    border-collapse: collapse;
+}
+
+thead th {
+    background: #f3f4f6; /* Background color for the header */
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0; /* Stick to the top */
+    z-index: 1; /* Ensure header is above content */
+    border-bottom: 2px solid #e5e7eb; /* Border below header */
+}
+
+thead th:first-child {
+    position: relative;
+    z-index: 2; /* Ensure first header cell is on top */
+}
+
+tbody td {
+    padding: 8px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.thead-sticky {
+    position: sticky;
+    top: 0;
+    background: #ffffff; /* Header background color */
+    z-index: 1;
+    border-bottom: 2px solid #e5e7eb; /* Header bottom border */
+}
+
+.table-fixed {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+

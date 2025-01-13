@@ -1,0 +1,2049 @@
+{
+  "status": 200,
+  "ready": true,
+  "successful": true,
+  "value": [
+    {
+      "name": "MachineType",
+      "value": {
+        "type": "Virtual Machine"
+      }
+    },
+    {
+      "name": "PublicIP",
+      "value": {
+        "ip": "52.140.35.219"
+      }
+    },
+    {
+      "name": "PrivateIP",
+      "value": [
+        {
+          "alias": "Ethernet01",
+          "ip": "10.2.0.8"
+        },
+        {
+          "alias": "Loopback Pseudo-Interface 1",
+          "ip": "127.0.0.1"
+        }
+      ]
+    },
+    {
+      "name": "InstalledApp",
+      "value": [
+        {
+          "name": "Python 3.6.8 Development Libraries (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.10.5 Utility Scripts (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.6.8 Tcl/Tk Support (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.6.8 pip Bootstrap (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.6.8 Executables (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.10.5 Standard Library (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.6.8 Core Interpreter (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.10.5 pip Bootstrap (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.6.8 Utility Scripts (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.6.8 Standard Library (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.10.5 Documentation (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.6.8 Documentation (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.6.8 Test Suite (64-bit)",
+          "version": "3.6.8150.0"
+        },
+        {
+          "name": "Python 3.10.5 Test Suite (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.10.5 Tcl/Tk Support (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.10.5 Development Libraries (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.10.5 Core Interpreter (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Python 3.10.5 Executables (64-bit)",
+          "version": "3.10.5150.0"
+        },
+        {
+          "name": "Node.js",
+          "version": "22.11.0"
+        },
+        {
+          "name": "Zabbix Agent (64-bit)",
+          "version": "6.4.6.2400"
+        },
+        {
+          "name": "Dynatrace OneAgent",
+          "version": "1.303.62"
+        },
+        {
+          "name": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33135",
+          "version": "14.38.33135"
+        },
+        {
+          "name": "windows_exporter",
+          "version": "0.27.2"
+        },
+        {
+          "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664",
+          "version": "12.0.40664"
+        },
+        {
+          "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135",
+          "version": "14.38.33135"
+        },
+        {
+          "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33135",
+          "version": "14.38.33135"
+        },
+        {
+          "name": "Microsoft Power BI Desktop (x64)",
+          "version": "2.105.923.0"
+        },
+        {
+          "name": "Python Launcher",
+          "version": "3.10.7826.0"
+        },
+        {
+          "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664",
+          "version": "12.0.40664"
+        },
+        {
+          "name": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.38.33135",
+          "version": "14.38.33135"
+        },
+        {
+          "name": "AWS Command Line Interface v2",
+          "version": "2.7.31.0"
+        },
+        {
+          "name": "Microsoft Azure CLI",
+          "version": "2.42.0"
+        },
+        {
+          "name": "MongoDB 6.0.5 2008R2Plus SSL (64 bit)",
+          "version": "6.0.5"
+        }
+      ]
+    },
+    {
+      "name": "Process",
+      "value": [
+        {
+          "cpu": 0.296875,
+          "id": 10844,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.703125,
+          "id": 9016,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0,
+          "id": 12780,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 24.921875,
+          "id": 11324,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 156.9375,
+          "id": 5968,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 70.515625,
+          "id": 2900,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 572.5625,
+          "id": 8208,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 7760,
+          "name": "chrome",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 13164,
+          "name": "cmd",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 10508,
+          "name": "cmd",
+          "service": null
+        },
+        {
+          "cpu": 0.046875,
+          "id": 8272,
+          "name": "cmd",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.53125,
+          "id": 9292,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.484375,
+          "id": 8324,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.484375,
+          "id": 10312,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 12.0625,
+          "id": 9960,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 10.21875,
+          "id": 8316,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 14.4375,
+          "id": 8048,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 19.03125,
+          "id": 7516,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 25.3125,
+          "id": 8224,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 2.203125,
+          "id": 8200,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.359375,
+          "id": 10472,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.59375,
+          "id": 11768,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 96.625,
+          "id": 11680,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 9.015625,
+          "id": 12064,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 9.34375,
+          "id": 11908,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.5625,
+          "id": 10944,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 17.203125,
+          "id": 10752,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 2.1875,
+          "id": 10652,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.921875,
+          "id": 10864,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 4.53125,
+          "id": 10788,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.15625,
+          "id": 3084,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 89.421875,
+          "id": 2168,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.734375,
+          "id": 3244,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 9.640625,
+          "id": 3104,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 12.75,
+          "id": 1796,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.546875,
+          "id": 920,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 13.203125,
+          "id": 868,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 11.984375,
+          "id": 1252,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.40625,
+          "id": 1080,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.578125,
+          "id": 3296,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.8125,
+          "id": 5796,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 2,
+          "id": 5176,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.515625,
+          "id": 6792,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.515625,
+          "id": 6040,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 11.96875,
+          "id": 4484,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.328125,
+          "id": 3360,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 12.296875,
+          "id": 3348,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.4375,
+          "id": 4404,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 17.03125,
+          "id": 3676,
+          "name": "Code",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.296875,
+          "id": 4744,
+          "name": "com.docker.service",
+          "service": "com.docker.service"
+        },
+        {
+          "cpu": 0.828125,
+          "id": 11060,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.921875,
+          "id": 10796,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 6820,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.203125,
+          "id": 13016,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.0625,
+          "id": 12116,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 11832,
+          "name": "conhost",
+          "service": null
+        },
+        {
+          "cpu": 0.03125,
+          "id": 4844,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 4256,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 2588,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.171875,
+          "id": 5160,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 5116,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 4980,
+          "name": "conhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.9375,
+          "id": 7816,
+          "name": "csrss",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 612,
+          "name": "csrss",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.78125,
+          "id": 536,
+          "name": "csrss",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.6875,
+          "id": 8384,
+          "name": "ctfmon",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 5192,
+          "name": "dllhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.15625,
+          "id": 4984,
+          "name": "dllhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 53.25,
+          "id": 7980,
+          "name": "dwm",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.390625,
+          "id": 788,
+          "name": "dwm",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 4716,
+          "name": "epmd",
+          "service": "N/A"
+        },
+        {
+          "cpu": 11.421875,
+          "id": 4080,
+          "name": "erl",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 3612,
+          "name": "erlsrv",
+          "service": "RabbitMQ"
+        },
+        {
+          "cpu": 1.3125,
+          "id": 13048,
+          "name": "esbuild",
+          "service": "N/A"
+        },
+        {
+          "cpu": 6.671875,
+          "id": 8936,
+          "name": "explorer",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 7912,
+          "name": "fontdrvhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 952,
+          "name": "fontdrvhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 948,
+          "name": "fontdrvhost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.796875,
+          "id": 5428,
+          "name": "httpd",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.515625,
+          "id": 3604,
+          "name": "httpd",
+          "service": "PEMHTTPD-x64"
+        },
+        {
+          "cpu": null,
+          "id": 0,
+          "name": "Idle",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 8656,
+          "name": "inet_gethost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 3472,
+          "name": "inetinfo",
+          "service": "IISADMIN"
+        },
+        {
+          "cpu": 1.078125,
+          "id": 460,
+          "name": "LogonUI",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.1875,
+          "id": 756,
+          "name": "LsaIso",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.296875,
+          "id": 764,
+          "name": "lsass",
+          "service": "KeyIso"
+        },
+        {
+          "cpu": 20.0625,
+          "id": 3816,
+          "name": "mongod",
+          "service": "MongoDB"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 11788,
+          "name": "msdtc",
+          "service": "MSDTC"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 652,
+          "name": "msiexec",
+          "service": "msiserver"
+        },
+        {
+          "cpu": 308.421875,
+          "id": 3412,
+          "name": "MsMpEng",
+          "service": "WinDefend"
+        },
+        {
+          "cpu": 0.234375,
+          "id": 8892,
+          "name": "NisSrv",
+          "service": "WdNisSvc"
+        },
+        {
+          "cpu": 18.609375,
+          "id": 9084,
+          "name": "node",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.421875,
+          "id": 4308,
+          "name": "node",
+          "service": "N/A"
+        },
+        {
+          "cpu": 19.75,
+          "id": 5100,
+          "name": "oneagentloganalytics",
+          "service": "N/A"
+        },
+        {
+          "cpu": 5.21875,
+          "id": 4968,
+          "name": "oneagentnetwork",
+          "service": "N/A"
+        },
+        {
+          "cpu": 19.859375,
+          "id": 4828,
+          "name": "oneagentos",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.609375,
+          "id": 3440,
+          "name": "oneagentwatchdog",
+          "service": "Dynatrace OneAgent"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 3660,
+          "name": "pg_ctl",
+          "service": "postgresql-x64-15"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 3684,
+          "name": "pgbouncer",
+          "service": "pgbouncer"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 5780,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 6008,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 6016,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.609375,
+          "id": 5152,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 4468,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 4544,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 4760,
+          "name": "postgres",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.109375,
+          "id": 11800,
+          "name": "powershell",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.78125,
+          "id": 12324,
+          "name": "powershell",
+          "service": null
+        },
+        {
+          "cpu": 1.109375,
+          "id": 13140,
+          "name": "powershell",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.609375,
+          "id": 404,
+          "name": "powershell",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.078125,
+          "id": 11092,
+          "name": "powershell",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.015625,
+          "id": 11344,
+          "name": "powershell",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.78125,
+          "id": 7424,
+          "name": "rdpclip",
+          "service": "N/A"
+        },
+        {
+          "cpu": 3.609375,
+          "id": 108,
+          "name": "Registry",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 8560,
+          "name": "RuntimeBroker",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.859375,
+          "id": 4536,
+          "name": "RuntimeBroker",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.46875,
+          "id": 2088,
+          "name": "RuntimeBroker",
+          "service": "N/A"
+        },
+        {
+          "cpu": 2.734375,
+          "id": 5572,
+          "name": "SearchUI",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0,
+          "id": 56,
+          "name": "Secure System",
+          "service": "N/A"
+        },
+        {
+          "cpu": 4.953125,
+          "id": 736,
+          "name": "services",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.078125,
+          "id": 6836,
+          "name": "ShellExperienceHost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.703125,
+          "id": 6640,
+          "name": "sihost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.125,
+          "id": 4868,
+          "name": "smartscreen",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.28125,
+          "id": 412,
+          "name": "smss",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 2872,
+          "name": "spoolsv",
+          "service": "Spooler"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 3172,
+          "name": "svchost",
+          "service": "W3SVC"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 3188,
+          "name": "svchost",
+          "service": "TrkWks"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 3152,
+          "name": "svchost",
+          "service": "SysMain"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 3164,
+          "name": "svchost",
+          "service": "SstpSvc"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 3212,
+          "name": "svchost",
+          "service": "WpnService"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 3772,
+          "name": "svchost",
+          "service": "LanmanServer"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 3196,
+          "name": "svchost",
+          "service": "W32Time"
+        },
+        {
+          "cpu": 0.6875,
+          "id": 3204,
+          "name": "svchost",
+          "service": "WinRM"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 3144,
+          "name": "svchost",
+          "service": "sacsvr"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 2776,
+          "name": "svchost",
+          "service": "SessionEnv"
+        },
+        {
+          "cpu": 1.234375,
+          "id": 3048,
+          "name": "svchost",
+          "service": "CryptSvc"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 2760,
+          "name": "svchost",
+          "service": "IKEEXT"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 2768,
+          "name": "svchost",
+          "service": "PolicyAgent"
+        },
+        {
+          "cpu": 3.234375,
+          "id": 3128,
+          "name": "svchost",
+          "service": "DiagTrack"
+        },
+        {
+          "cpu": 4.90625,
+          "id": 3136,
+          "name": "svchost",
+          "service": "Winmgmt"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 3112,
+          "name": "svchost",
+          "service": "AppHostSvc"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 3120,
+          "name": "svchost",
+          "service": "ftpsvc"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 3832,
+          "name": "svchost",
+          "service": "RasMan"
+        },
+        {
+          "cpu": 0.796875,
+          "id": 9480,
+          "name": "svchost",
+          "service": "UsoSvc"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 10124,
+          "name": "svchost",
+          "service": "StorSvc"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 8288,
+          "name": "svchost",
+          "service": "TokenBroker"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 8568,
+          "name": "svchost",
+          "service": "CDPSvc"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 13116,
+          "name": "svchost",
+          "service": "LxssManager"
+        },
+        {
+          "cpu": 5.34375,
+          "id": 13304,
+          "name": "svchost",
+          "service": "DPS"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 10228,
+          "name": "svchost",
+          "service": "WdiSystemHost"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 12976,
+          "name": "svchost",
+          "service": "LicenseManager"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 8280,
+          "name": "svchost",
+          "service": "TabletInputService"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 4996,
+          "name": "svchost",
+          "service": "BITS"
+        },
+        {
+          "cpu": 0.546875,
+          "id": 6276,
+          "name": "svchost",
+          "service": "StateRepository"
+        },
+        {
+          "cpu": 0.15625,
+          "id": 3860,
+          "name": "svchost",
+          "service": "iphlpsvc"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 4260,
+          "name": "svchost",
+          "service": "DsSvc"
+        },
+        {
+          "cpu": 0.125,
+          "id": 6936,
+          "name": "svchost",
+          "service": "CDPUserSvc_84cbf"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 7284,
+          "name": "svchost",
+          "service": "UALSVC"
+        },
+        {
+          "cpu": 0.390625,
+          "id": 6584,
+          "name": "svchost",
+          "service": "WpnUserService_84cbf"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 6812,
+          "name": "svchost",
+          "service": "pla"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 2712,
+          "name": "svchost",
+          "service": "CertPropSvc"
+        },
+        {
+          "cpu": 0.6875,
+          "id": 1312,
+          "name": "svchost",
+          "service": "vmicheartbeat"
+        },
+        {
+          "cpu": 0.375,
+          "id": 1320,
+          "name": "svchost",
+          "service": "vmickvpexchange"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 1164,
+          "name": "svchost",
+          "service": "TimeBrokerSvc"
+        },
+        {
+          "cpu": 7.140625,
+          "id": 1264,
+          "name": "svchost",
+          "service": "EventLog"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 1572,
+          "name": "svchost",
+          "service": "nsi"
+        },
+        {
+          "cpu": 1.09375,
+          "id": 1616,
+          "name": "svchost",
+          "service": "Dhcp"
+        },
+        {
+          "cpu": 0,
+          "id": 1328,
+          "name": "svchost",
+          "service": "vmicshutdown"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 1356,
+          "name": "svchost",
+          "service": "vmictimesync"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 1156,
+          "name": "svchost",
+          "service": "NcbService"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 892,
+          "name": "svchost",
+          "service": "smphost"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 904,
+          "name": "svchost",
+          "service": "PlugPlay"
+        },
+        {
+          "cpu": 2.65625,
+          "id": 376,
+          "name": "svchost",
+          "service": "RpcEptMapper"
+        },
+        {
+          "cpu": 0.34375,
+          "id": 456,
+          "name": "svchost",
+          "service": "LSM"
+        },
+        {
+          "cpu": 0.171875,
+          "id": 1056,
+          "name": "svchost",
+          "service": "PcaSvc"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 1120,
+          "name": "svchost",
+          "service": "lmhosts"
+        },
+        {
+          "cpu": 1.3125,
+          "id": 928,
+          "name": "svchost",
+          "service": "BrokerInfrastructure"
+        },
+        {
+          "cpu": 77.578125,
+          "id": 1032,
+          "name": "svchost",
+          "service": "TermService"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 1644,
+          "name": "svchost",
+          "service": "gpsvc"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 2236,
+          "name": "svchost",
+          "service": "FontCache"
+        },
+        {
+          "cpu": 0.453125,
+          "id": 2320,
+          "name": "svchost",
+          "service": "BFE"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 2160,
+          "name": "svchost",
+          "service": "Wcmsvc"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 2196,
+          "name": "svchost",
+          "service": "ShellHWDetection"
+        },
+        {
+          "cpu": 0.21875,
+          "id": 2432,
+          "name": "svchost",
+          "service": "WinHttpAutoProxySvc"
+        },
+        {
+          "cpu": 0.015625,
+          "id": 2472,
+          "name": "svchost",
+          "service": "UmRdpService"
+        },
+        {
+          "cpu": 0.109375,
+          "id": 2384,
+          "name": "svchost",
+          "service": "UserManager"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 2408,
+          "name": "svchost",
+          "service": "LanmanWorkstation"
+        },
+        {
+          "cpu": 0.0625,
+          "id": 2072,
+          "name": "svchost",
+          "service": "CoreMessagingRegistrar"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 1724,
+          "name": "svchost",
+          "service": "EventSystem"
+        },
+        {
+          "cpu": 0.171875,
+          "id": 1756,
+          "name": "svchost",
+          "service": "NlaSvc"
+        },
+        {
+          "cpu": 0.234375,
+          "id": 1708,
+          "name": "svchost",
+          "service": "ProfSvc"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 1716,
+          "name": "svchost",
+          "service": "Themes"
+        },
+        {
+          "cpu": 0.09375,
+          "id": 1908,
+          "name": "svchost",
+          "service": "SENS"
+        },
+        {
+          "cpu": 0.171875,
+          "id": 2036,
+          "name": "svchost",
+          "service": "netprofm"
+        },
+        {
+          "cpu": 0.71875,
+          "id": 1812,
+          "name": "svchost",
+          "service": "Schedule"
+        },
+        {
+          "cpu": 1.21875,
+          "id": 1848,
+          "name": "svchost",
+          "service": "Dnscache"
+        },
+        {
+          "cpu": 65.515625,
+          "id": 4,
+          "name": "System",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 6760,
+          "name": "taskhostw",
+          "service": "N/A"
+        },
+        {
+          "cpu": 1.359375,
+          "id": 5824,
+          "name": "taskhostw",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.140625,
+          "id": 5848,
+          "name": "vmcompute",
+          "service": "vmcompute"
+        },
+        {
+          "cpu": 0.359375,
+          "id": 3892,
+          "name": "vmms",
+          "service": "vmms"
+        },
+        {
+          "cpu": 6.125,
+          "id": 3448,
+          "name": "WaAppAgent",
+          "service": "RdAgent"
+        },
+        {
+          "cpu": 0.046875,
+          "id": 3904,
+          "name": "WaSecAgentProv",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 6632,
+          "name": "win32sysinfo",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.34375,
+          "id": 4088,
+          "name": "windows_exporter",
+          "service": "windows_exporter"
+        },
+        {
+          "cpu": 6.609375,
+          "id": 3464,
+          "name": "WindowsAzureGuestAgent",
+          "service": "WindowsAzureGuestAgent"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 632,
+          "name": "wininit",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.1875,
+          "id": 7864,
+          "name": "winlogon",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.203125,
+          "id": 684,
+          "name": "winlogon",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.890625,
+          "id": 11916,
+          "name": "winpty-agent",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.625,
+          "id": 13000,
+          "name": "winpty-agent",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.796875,
+          "id": 9752,
+          "name": "winpty-agent",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.671875,
+          "id": 10736,
+          "name": "winpty-agent",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.03125,
+          "id": 9952,
+          "name": "winrshost",
+          "service": null
+        },
+        {
+          "cpu": 0.078125,
+          "id": 9332,
+          "name": "winrshost",
+          "service": "N/A"
+        },
+        {
+          "cpu": 0.078125,
+          "id": 12016,
+          "name": "WmiApSrv",
+          "service": "wmiApSrv"
+        },
+        {
+          "cpu": 2.828125,
+          "id": 8308,
+          "name": "WmiPrvSE",
+          "service": "N/A"
+        },
+        {
+          "cpu": 64.421875,
+          "id": 6604,
+          "name": "WmiPrvSE",
+          "service": "N/A"
+        },
+        {
+          "cpu": 7.65625,
+          "id": 3640,
+          "name": "zabbix_agentd",
+          "service": "Zabbix Agent"
+        }
+      ]
+    },
+    {
+      "name": "OSInfo",
+      "value": {
+        "architecture": "64-bit",
+        "caption": "Microsoft Windows Server 2019 Datacenter",
+        "hostname": "CIS-DT-ClientVM",
+        "manufacturer": "Microsoft Corporation",
+        "version": "10.0.17763"
+      }
+    },
+    {
+      "name": "DiskDetail",
+      "value": [
+        {
+          "disk": "HarddiskVolume2",
+          "reads": 0,
+          "transfers": 0,
+          "writes": 0
+        },
+        {
+          "disk": "HarddiskVolume3",
+          "reads": 65,
+          "transfers": 150,
+          "writes": 85
+        },
+        {
+          "disk": "C:",
+          "reads": 241993,
+          "transfers": 314296,
+          "writes": 72303
+        },
+        {
+          "disk": "D:",
+          "reads": 5,
+          "transfers": 1191,
+          "writes": 1186
+        }
+      ]
+    },
+    {
+      "name": "DriveDetails",
+      "value": [
+        {
+          "file_system_label": "Temporary Storage",
+          "file_system_type": "NTFS",
+          "health_status": "Healthy",
+          "letter": "D",
+          "operational_status": "OK",
+          "size": "32.03 GB",
+          "size_remaining": "29.53 GB",
+          "type": "Fixed",
+          "unit_size": 4096,
+          "used": "2.5 GB"
+        },
+        {
+          "file_system_label": "Windows",
+          "file_system_type": "NTFS",
+          "health_status": "Healthy",
+          "letter": "C",
+          "operational_status": "OK",
+          "size": "126.57 GB",
+          "size_remaining": "42.5 GB",
+          "type": "Fixed",
+          "unit_size": 4096,
+          "used": "84.07 GB"
+        },
+        {
+          "file_system_label": "Recovery",
+          "file_system_type": "NTFS",
+          "health_status": "Healthy",
+          "letter": null,
+          "operational_status": "OK",
+          "size": "0.44 GB",
+          "size_remaining": "0.42 GB",
+          "type": "Fixed",
+          "unit_size": 4096,
+          "used": "0.02 GB"
+        },
+        {
+          "file_system_label": "",
+          "file_system_type": "FAT32",
+          "health_status": "Healthy",
+          "letter": null,
+          "operational_status": "OK",
+          "size": "0.09 GB",
+          "size_remaining": "0.07 GB",
+          "type": "Fixed",
+          "unit_size": 512,
+          "used": "0.03 GB"
+        }
+      ]
+    },
+    {
+      "name": "CpuInfo",
+      "value": {
+        "core_thread": "4",
+        "cpu_cores": "4",
+        "cpu_speed": "2095",
+        "no_of_socket": "1",
+        "total_threads": "2204",
+        "v_cpu": "4"
+      }
+    },
+    {
+      "name": "DiskInfo",
+      "value": [
+        {
+          "allocated_size": "127.13 GB",
+          "disk_number": 0,
+          "friendly_name": "Msft Virtual Disk",
+          "health_status": "Healthy",
+          "location": "Integrated : Adapter 0 : Port 0 : Target 0 : LUN 0",
+          "logical_sector_size": 512,
+          "manufacturer": "Msft",
+          "model": "Virtual Disk",
+          "number": 0,
+          "number_of_partitions": 4,
+          "operational_status": "Online",
+          "partition_style": "GPT",
+          "physical_sector_size": 4096,
+          "provisioning_type": "Thin",
+          "size": "127.13 GB"
+        },
+        {
+          "allocated_size": "32.03 GB",
+          "disk_number": 1,
+          "friendly_name": "Msft Virtual Disk",
+          "health_status": "Healthy",
+          "location": "Integrated : Adapter 0 : Port 0 : Target 0 : LUN 1",
+          "logical_sector_size": 512,
+          "manufacturer": "Msft",
+          "model": "Virtual Disk",
+          "number": 1,
+          "number_of_partitions": 1,
+          "operational_status": "Online",
+          "partition_style": "MBR",
+          "physical_sector_size": 4096,
+          "provisioning_type": "Thin",
+          "size": "32.03 GB"
+        }
+      ]
+    },
+    {
+      "name": "CpuDetails",
+      "value": {
+        "remaining": 70.730698260361,
+        "used": 29.269301739639
+      }
+    },
+    {
+      "name": "NetworkInfo",
+      "value": [
+        {
+          "Name": "Ethernet01",
+          "ReceivedBroadcastBytes": 0,
+          "ReceivedBroadcastPackets": 0,
+          "ReceivedBytes": 47500979,
+          "ReceivedDiscardedPackets": 0,
+          "ReceivedMulticastBytes": 0,
+          "ReceivedMulticastPackets": 0,
+          "ReceivedPacketErrors": 0,
+          "ReceivedUnicastBytes": 47500979,
+          "ReceivedUnicastPackets": 131399,
+          "SentBroadcastBytes": 4951,
+          "SentBroadcastPackets": 43,
+          "SentBytes": 221992657,
+          "SentMulticastBytes": 3555,
+          "SentMulticastPackets": 36,
+          "SentUnicastBytes": 221984151,
+          "SentUnicastPackets": 123978
+        }
+      ]
+    },
+    {
+      "name": "PhysicalMemory",
+      "value": {
+        "available": 980,
+        "total": 1638,
+        "used": 658
+      }
+    },
+    {
+      "name": "MacAddress",
+      "value": [
+        {
+          "address": "00-22-48-D5-CC-B7",
+          "name": "Ethernet01"
+        }
+      ]
+    },
+    {
+      "name": "Service",
+      "value": [
+        {
+          "ip": "::",
+          "name": "services",
+          "port": 49717,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "lsass",
+          "port": 49678,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 49675,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "spoolsv",
+          "port": 49671,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 49668,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 49666,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 49665,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "wininit",
+          "port": 49664,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 47001,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "zabbix_agentd",
+          "port": 10050,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "windows_exporter",
+          "port": 9182,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::1",
+          "name": "pgbouncer",
+          "port": 6432,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 5986,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 5985,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "erl",
+          "port": 5672,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "postgres",
+          "port": 5432,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::1",
+          "name": "node",
+          "port": 5173,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "epmd",
+          "port": 4369,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 3389,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "vmms",
+          "port": 2179,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 445,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 443,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 135,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "System",
+          "port": 80,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "127.0.0.1",
+          "name": "Code",
+          "port": 49826,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "127.0.0.1",
+          "name": "Code",
+          "port": 49824,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "services",
+          "port": 49717,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "lsass",
+          "port": 49678,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 49675,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "spoolsv",
+          "port": 49671,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 49668,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 49666,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 49665,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "wininit",
+          "port": 49664,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "127.0.0.1",
+          "name": "mongod",
+          "port": 27017,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "erl",
+          "port": 25672,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "zabbix_agentd",
+          "port": 10050,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "httpd",
+          "port": 8080,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "127.0.0.1",
+          "name": "pgbouncer",
+          "port": 6432,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "erl",
+          "port": 5672,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "postgres",
+          "port": 5432,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "epmd",
+          "port": 4369,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 3389,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "vmms",
+          "port": 2179,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "10.2.0.8",
+          "name": "System",
+          "port": 139,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 135,
+          "protocol": "TCP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 5355,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 5353,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 4500,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 3389,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 500,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "::",
+          "name": "svchost",
+          "port": 123,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "127.0.0.1",
+          "name": "svchost",
+          "port": 50641,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 5355,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "chrome",
+          "port": 5353,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 4500,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 3389,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 500,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "10.2.0.8",
+          "name": "System",
+          "port": 138,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "10.2.0.8",
+          "name": "System",
+          "port": 137,
+          "protocol": "UDP"
+        },
+        {
+          "ip": "0.0.0.0",
+          "name": "svchost",
+          "port": 123,
+          "protocol": "UDP"
+        }
+      ]
+    }
+  ]
+}

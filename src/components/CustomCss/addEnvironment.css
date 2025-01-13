@@ -1,0 +1,160 @@
+.FullPageSettings{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.SettingsBody{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 90vh;
+}
+
+.Sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 19vw;
+    height: 89vh;
+    border-right: 1px solid rgb(179, 179, 179);
+}
+
+.addEnvSettingsInside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 81vw;
+    height: 89vh;
+    gap: 2vh;
+}
+
+.BreadCrumb{
+    display: flex;
+    width: 81vw;
+    margin-top: 2vh;
+}
+
+.addEnvTopHeading{
+    display: flex;
+    flex-direction: row;
+    width: 81vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.addEnvHeadingFull{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 95%;
+    margin-left: 3vh;
+    cursor: default;
+}
+
+.addEnvHeadingText{
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: default;
+}
+
+.SubHeadingText{
+    display: block;
+    font-size: 0.9rem;
+    font-weight: lighter;
+    color: gray;
+    cursor: default;
+}
+
+.AddEnvButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    height: 7vh;
+    margin-right: 5vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.addEnvBodyList{
+    display: flex;
+    flex-direction: column;
+    width: 81vw;
+    height: 76vh;
+    gap: 2vh;
+}
+
+.addEnvDetails, .addWindowsDetails, .addLinuxDetails{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 3vh;
+    gap: 1vh;
+}
+
+.addEnvHeader, .addWindowsHeader, .addLinuxHeader{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.addEnvBody, .addWindowsBody, .addLinuxBody{
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    gap: 15vh;
+}
+
+.addEnvName, .addDataFetcher, .addWinApp, 
+.addWindowsUsername, .addWindowsPassword, .addWindowsPort, 
+.addLinuxUsername, .addLinuxPassword, .addLinuxPort{
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+}
+
+.inputStyle{
+    display: flex;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+    padding: 0.5vh;
+    width: 20vw;
+    height: 6vh;
+    outline: none;
+}
+
+.ButtonsTab{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+    margin-top: 3vh;
+}
+
+.Save{
+    display: flex;
+    padding: 1vh;
+    width: 12vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    color: #0097ac;
+}
+
+.Cancel{
+    display: flex;
+    padding: 1vh;
+    width: 12vh;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 2vh;
+}

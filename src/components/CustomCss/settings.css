@@ -1,0 +1,148 @@
+.FullPageSettings{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.SettingsBody{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 90vh;
+}
+
+.Sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 19vw;
+    height: 89vh;
+    border-right: 1px solid rgb(179, 179, 179);
+}
+
+.SettingsInside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 81vw;
+    height: 89vh;
+    gap: 3vh;
+}
+
+.TopHeading{
+    display: flex;
+    flex-direction: row;
+    width: 81vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3vh;
+}
+
+.HeadingFull{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 95%;
+    margin-left: 3vh;
+    cursor: default;
+}
+
+.HeadingText{
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: default;
+}
+
+.SubHeadingText{
+    display: block;
+    font-size: 0.9rem;
+    font-weight: lighter;
+    color: gray;
+    cursor: default;
+}
+
+.AddEnvButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    height: 7vh;
+    margin-right: 5vh;
+    background: #F2F7F8;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #0097ac;
+}
+
+.BodyList{
+    display: flex;
+    flex-direction: column;
+    width: 75vw;
+    height: 76vh;
+}
+
+.ListItem{
+    display: flex;
+    height: 7vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ItemName{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.ButtonGroup{
+    display: flex;
+    height: 100%;
+    width: 12vw;
+    margin-right: 40vh;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.EditButton{
+    display: flex;
+    width: 5vw;
+    height: 65%;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 8px;
+    color: #0097ac;
+}
+
+.DeleteButton{
+    display: flex;
+    width: 5vw;
+    height: 65%;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 8px;
+    color: #FC6A59;
+}
+
+
+/* settings.css */
+
+.osOptions {
+    display: flex;
+    gap: 15px; /* Adjust the space between radio buttons */
+    align-items: center; /* Center-align items vertically */
+}
+
+.osOptions label {
+    display: flex;
+    align-items: center; /* Center-align text with radio button */
+}
+
+
+

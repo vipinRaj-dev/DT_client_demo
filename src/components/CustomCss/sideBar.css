@@ -1,0 +1,11 @@
+.textColor{
+    color: #0097AC;
+}
+
+.background{
+    background-color: #0097AC;
+}
+
+.clickable {
+    cursor: pointer;
+  }
