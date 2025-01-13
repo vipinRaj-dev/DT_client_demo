@@ -50,7 +50,7 @@ function App() {
         <Router>
           <Routes>
             {/* <Route path="/login" element={<Login />} /> */}
-            <Route path="/DT_client_demo" element={<Login />} />
+            <Route path="/" element={<Login />} />
 
             {/* <Route element={<ProtectedRoute />}> */}
             {/* didn't added the protectedRoutes logic */}
@@ -78,7 +78,7 @@ function App() {
 
             {/* </Route> */}
             {/* Database Discovery Route */}
-            <Route path="/DT_client_demo/databaseDiscovery" element={<DatabaseDiscovery />}>
+            <Route path="/DT_client_demo" element={<DatabaseDiscovery />}>
               <Route index element={<DatabaseDiscoveryDashboard />} />
               <Route path="sqlDashboard/:time_interval" element={<SqlDashBoard />} />
               <Route path="postgreDashboard/:time_interval" element={<PostgreDashboard />} />
